@@ -1,10 +1,10 @@
 #!/bin/sh
 # This is a generated file; do not edit or check into version control.
 export "FLUTTER_ROOT=/Users/abduld/Desktop/flutter/flutter"
-export "FLUTTER_APPLICATION_PATH=/Users/abduld/kitchen_os"
-export "FLUTTER_FRAMEWORK_SWIFT_PACKAGE_PATH=/Users/abduld/kitchen_os/macos/Flutter/ephemeral/Packages/.packages/FlutterFramework"
+export "FLUTTER_APPLICATION_PATH=/Users/abduld/Chef_OS"
+export "FLUTTER_FRAMEWORK_SWIFT_PACKAGE_PATH=/Users/abduld/Chef_OS/macos/Flutter/ephemeral/Packages/.packages/FlutterFramework"
 export "COCOAPODS_PARALLEL_CODE_SIGN=true"
-export "FLUTTER_TARGET=/Users/abduld/kitchen_os/lib/main.dart"
+export "FLUTTER_TARGET=/Users/abduld/Chef_OS/lib/main.dart"
 export "FLUTTER_BUILD_DIR=build"
 export "FLUTTER_BUILD_NAME=1.0.0"
 export "FLUTTER_BUILD_NUMBER=1"
@@ -12,4 +12,4 @@ export "DART_DEFINES=RkxVVFRFUl9WRVJTSU9OPTMuNDQuNA==,RkxVVFRFUl9DSEFOTkVMPXN0YW
 export "DART_OBFUSCATION=false"
 export "TRACK_WIDGET_CREATION=true"
 export "TREE_SHAKE_ICONS=false"
-export "PACKAGE_CONFIG=/Users/abduld/kitchen_os/.dart_tool/package_config.json"
+export "PACKAGE_CONFIG=/Users/abduld/Chef_OS/.dart_tool/package_config.json"
